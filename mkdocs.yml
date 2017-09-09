@@ -1,0 +1,12 @@
+site_name: CarFam
+site_url: http://127.0.0.1:8000/
+site_description: A curated list of awesome car brands 
+site_author: theja jogu
+repo_url: https://github.com/thejajogu/car-fam
+theme: readthedocs
+pages:
+- Home: 'index.md'
+- 'CarFam-List':
+    - 'Aston-Martin': 'astonmartin.md'
+    - 'Mercedes-Benz': 'mercedesbenz.md'
+
